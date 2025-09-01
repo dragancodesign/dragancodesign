@@ -1,5 +1,5 @@
-## Hi there 👋
-### - 🔭 I’m currently working on changing my GitHub profile page.
+## Hi there coders 👋
+#### 🔭 I’m currently working on adding new things and organizing my GitHub profile page. 🌱
 <!--
 **dragancodesign/dragancodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
